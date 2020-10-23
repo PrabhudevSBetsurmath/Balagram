@@ -3603,7 +3603,7 @@ html.no-csstransitions .home-content__main {
 .s-contact {
   padding-top: 16.2rem;
   padding-bottom: 21rem;
-  background-color: #5e3080;
+  background-color: #0f0f0f;
   color: rgba(255, 255, 255, 0.6);
   text-align: center;
   position: relative;
@@ -3627,6 +3627,7 @@ html.no-csstransitions .home-content__main {
 
 .s-contact .subhead {
   color: #2a1538;
+  font-size: 3.5rem;
 }
 
 .s-contact .section-header,
@@ -3675,6 +3676,7 @@ html.no-csstransitions .home-content__main {
 .contact-social li {
   margin-right: 15px;
   padding-left: 0;
+  padding-right: 20px;
   display: inline-block;
 }
 
@@ -3821,13 +3823,16 @@ footer {
   padding-top: 9rem;
   padding-bottom: 6rem;
   color: rgba(255, 255, 255, 0.6);
-  background-color: #5e3080;
+  background-color: #1111113a;
   border-top: 1px solid rgba(255, 255, 255, 0.1);
   text-align: center;
   position: relative;
 }
 
 footer a {
+  color: #FFFFFF;
+}
+footer span {
   color: #FFFFFF;
 }
 
